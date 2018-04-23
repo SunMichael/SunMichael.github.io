@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于我
-tagline: 一只什么也没有的咸鱼
+title: aaabout me
+tagline: nothing
 permalink: /about/
 encoding: UTF-8
 ---

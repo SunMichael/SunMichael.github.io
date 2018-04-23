@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 联系方式
-tagline: 相忘于江湖
+title: contact
+tagline: QQ
 encoding: UTF-8
 ---
 
