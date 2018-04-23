@@ -2,6 +2,7 @@
 layout: page
 title: 联系方式
 tagline: 相忘于江湖
+encoding: UTF-8
 ---
 
 <!-- Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why it's hard to put a form on a Jekyll site.
