@@ -8,4 +8,4 @@ encoding: UTF-8
 
 
 
-[ึ๗าณ](https://sunmichael.github.io/)
+[Home page](https://sunmichael.github.io/)
