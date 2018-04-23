@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 关于我
-tagline: 虽不能至，心向往之
+tagline: 一只什么也没有的咸鱼
 permalink: /about/
 ---
 
 
 
-[Go to the Home Page](https://sunmichael.github.io/)
+[主页](https://sunmichael.github.io/)

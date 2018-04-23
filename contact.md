@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 联系方式
-tagline: Create a contact form and you are good to go
+tagline: 相忘于江湖
 ---
 
 <!-- Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why it's hard to put a form on a Jekyll site.
@@ -11,4 +11,4 @@ Here listed some resources which provide  a saas service as a backend for forms 
 2. [FormKeep](https://formkeep.com/guides/contact-form-jekyll)
 3. [Simple Form](https://getsimpleform.com/) -->
 
-[Go to the Home Page](https://sunmichael.github.io/)
+[主页](https://sunmichael.github.io/)
